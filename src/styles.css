@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+th {
+  margin: 20px 0;
+  padding: 10px;
+  border: 1px solid #c8c8c8;
+  font-size: 14px;
+}
